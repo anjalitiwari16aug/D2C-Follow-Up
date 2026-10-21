@@ -1,0 +1,13 @@
+order_id,order_date,customer_name,phone,order_value,payment_type,status,dispatch_date,expected_delivery_date,assigned_employee
+ORD1001,2026-10-21 06:00,Kavya Menon,9811100001,2999,COD,Unconfirmed,,2026-10-25,Employee A
+ORD1002,2026-10-19 09:00,Sanjay Pillar,9811100002,8999,Prepaid,Dispatched,2026-10-19 18:00,2026-10-20,Employee B
+ORD1003,2026-10-20 08:00,Lakshmi Nair,98111,1499,COD,Confirmed,,2026-10-24,Employee C
+ORD1004,2026-10-18 10:00,Faisal Khan,9811100004,6200,UPI,Failed Delivery,2026-10-18 20:00,2026-10-20,Employee D
+ORD1005,2026-31-10 10:00,Divya Raj,9811100005,2100,COD,Confirmed,,2026-10-24,Employee A
+ORD1006,2026-10-20 07:00,,9811100006,1799,Prepaid,Confirmed,,2026-10-24,Employee B
+ORD1002,2026-10-19 09:00,Sanjay Pillar,9811100002,8999,Prepaid,Dispatched,2026-10-19 18:00,2026-10-20,Employee B
+ORD1007,2026-10-19 11:00,Anil Kumar,9811100007,abc,COD,Dispatched,2026-10-19 20:00,2026-10-22,Employee C
+ORD1008,2026-10-19 14:00,Rina Das,9811100008,7400,COD,Confirmed,,2026-10-22,Employee D
+ORD1009,2026-10-16 12:00,Tom Mathew,9811100009,3300,Prepaid,Dispatched,,2026-10-19,Employee A
+ORD1010,2026-10-20 15:00,Zoya Ali,9811100010,5600,Prepaid,Delivered,2026-10-20 18:00,2026-10-23,Employee B
+ORD1011,2026-10-17 09:00,Gopal Iyer,9811100011,12500,COD,Dispatched,2026-10-17 17:00,2026-10-19,
